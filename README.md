@@ -2,7 +2,7 @@
 
 ## Full-Stack Enginner
 
-> Frontend and Backend
+> Frontend & Backend
 
 | Skill                             | Reasoning                                                                            |
 | --------------------------------- | ------------------------------------------------------------------------------------ |
