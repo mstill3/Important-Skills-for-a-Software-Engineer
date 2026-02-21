@@ -60,3 +60,22 @@
 | Skill   | Reasoning                                  |
 | ------- | ------------------------------------------ |
 | Kotlin  | Modern Android mobile programming language |
+
+## DevOps Engineer
+
+> Include [Common-Important](#important-skills)
+
+| Skill                         | Reasoning                                             |
+| ----------------------------- | ----------------------------------------------------- |
+| Docker                        | Ensure software runs on any machine                   |
+| Jenkins                       | Automated software testing, deployment, deployment    |
+| Kubernetes                    | Containterization across many machines                |
+| ELK Stack / Prometheus        | Log and metric management                             |
+| Grafana / OpenSearch / Zabbix | Dashboard for visualizing app/system logs            |
+| Ansible / Terraform           | Automated infrastructure management                   |
+| Python                        | Simple to learn scripting language with lots of power |
+| AWS / GCP / Azure             | Modern cloud platform providers                       |
+
+## Platform Engineer
+
+> Include [Common-Important](#important-skills) & [DevOps](#devops-engineer)
