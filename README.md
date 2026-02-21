@@ -1,4 +1,6 @@
-# Most Important Skills for a Full-Stack Software Engineer
+# Important Skills for a Software Engineer
+
+## Full-Stack (Frontend and Backend)
 
 1. [Git](Useful-Git-Commands.md)
    1. Understanding at least at a basic level commands for Version Control is critical
