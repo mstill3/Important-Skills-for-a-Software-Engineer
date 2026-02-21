@@ -19,3 +19,9 @@
 | Python                              | Simple to learn scripting language with lots of power                                |
 | Python Flask API                    | Using python as a backend API server                                                 |
 | JS/TS Node API                      | Using JS/TS as a backend API server                                                  |
+
+### Useful but not required
+
+| Skill              | Reasoning                                |
+| ------------------ | ---------------------------------------- |
+| Visual-Studio Code | Free & Powerful IDE for code development |
