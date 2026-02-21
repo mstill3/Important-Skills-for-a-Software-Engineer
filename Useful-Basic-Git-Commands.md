@@ -1,4 +1,4 @@
-# Useful git commands
+# Useful basic git commands
 
 Version control system (VCS)
 
