@@ -204,24 +204,27 @@
 43. Restore your most recently stashed changes and remove them from the stash:
     - `git stash __________`
 
+44. Undo a `git add .` operation (unstage all staged changes):
+    - `git __________ --staged .`
+
 ---
 
 ## Section 3: Short Answer
 
-44. What is the difference between `git fetch` and `git pull` in detail?
+45. What is the difference between `git fetch` and `git pull` in detail?
 
-45. What is the difference between `git revert` and `git reset`?
+46. What is the difference between `git revert` and `git reset`?
 
-46. Give a practical example of when you would use `git cherry-pick` instead of `git merge`.
+47. Give a practical example of when you would use `git cherry-pick` instead of `git merge`.
 
-47. When would you choose `git rebase` over `git merge`, and what risk does rebase carry?
+48. When would you choose `git rebase` over `git merge`, and what risk does rebase carry?
 
-48. Explain what `git reflog` is and describe a scenario where it could save you from losing work.
+49. Explain what `git reflog` is and describe a scenario where it could save you from losing work.
 
-49. Describe the typical workflow from editing a file to pushing it to a remote repo (list the commands in order).
+50. Describe the typical workflow from editing a file to pushing it to a remote repo (list the commands in order).
 
-50. You have a project with a `node_modules/` folder and a `.env` file containing secrets. What would you put in your `.gitignore`, and why is it important to do this before the first commit?
+51. You have a project with a `node_modules/` folder and a `.env` file containing secrets. What would you put in your `.gitignore`, and why is it important to do this before the first commit?
 
-51. What does `git rebase -i HEAD~5` do? Give one example of why you might use it.
+52. What does `git rebase -i HEAD~5` do? Give one example of why you might use it.
 
-52. When would using `git log --graph` be helpful?
+53. When would using `git log --graph` be helpful?
